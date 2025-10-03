@@ -1,0 +1,15 @@
+[submodule "task1-sidarth16"]
+	path = task1-sidarth16
+	url = https://github.com/sidarth16/task1-sidarth16
+[submodule "task2-sidarth16"]
+	path = task2-sidarth16
+	url = https://github.com/sidarth16/task2-sidarth16
+[submodule "task3-sidarth16"]
+	path = task3-sidarth16
+	url = https://github.com/sidarth16/task3-sidarth16
+[submodule "task4-sidarth16"]
+	path = task4-sidarth16
+	url = https://github.com/sidarth16/task4-sidarth16
+[submodule "program-sidarth16"]
+	path = program-sidarth16
+	url = https://github.com/sidarth16/program-sidarth16
