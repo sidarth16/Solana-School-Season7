@@ -1,1 +1,1 @@
-# Solana-School-Season7
+# Solana-School-Season-7-Graduate
